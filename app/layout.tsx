@@ -20,7 +20,7 @@ const openSans = Open_Sans({
 export const metadata: Metadata = {
   title: "DreamVacation - Tus sueños, nuestros sueños",
   description: "Vuelos, hoteles y paquetes a precios inigualables. Tu agencia de viajes de confianza.",
-  generator: "v0.app",
+  generator: "",
 }
 
 export default function RootLayout({
